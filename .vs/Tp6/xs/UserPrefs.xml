@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8885056F-FA47-439E-AE95-B0707073FBE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Cursando/Taller de lenguajes I/RepoGIT/TP6/Tp6/Program.cs">
+    <Files>
+      <File FileName="../../Cursando/Taller de lenguajes I/RepoGIT/TP6/Tp6/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tp6" expanded="True">
+            <Node name="Tp6" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Tp6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
