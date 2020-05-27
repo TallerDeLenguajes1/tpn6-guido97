@@ -29,6 +29,13 @@ namespace Tp6
                 "\nEl Coseno: " + Cos(num) +
                 "\nLa parte entera de un tipo float: " + Floor(num)+
                 "\n");
+            Console.Write("\nAhora ingrese dos números\n" +
+            	"Primer número: ");
+            float num1 = float.Parse(Console.ReadLine());
+            Console.Write("Segundo número: ");
+            float num2 = float.Parse(Console.ReadLine());
+            Console.Write("El menor es " + Min(num1, num2));
+            Console.Write(" y el mayor es "+Max(num1, num2));
         }
 
         public static int InvertirNumero(int n)
